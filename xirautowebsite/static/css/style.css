@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('../fonts/BebasNeue-Regular.ttf') format('truetype');
+    /* You can define additional font properties here, such as font-weight and font-style */
+  }
+  
+  .myfont {
+    font-family: 'MyFont', sans-serif;
+
+  }
+
+  #godfont2 {
+    font-family: 'MyFont', sans-serif;
+    
+  }
